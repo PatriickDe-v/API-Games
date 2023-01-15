@@ -1,2 +1,2 @@
-# CRUD-Games
-CRUD  Básico com alguns games no qual eu gosto bastante
+# API-Games
+API simples com alguns games no qual eu gosto bastante
